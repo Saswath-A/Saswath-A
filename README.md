@@ -1,15 +1,61 @@
-# 💫 About Me:
-I'm always learning — currently diving deeper into:<br>      Reverse engineering<br>    Vulnerability Assessment<br>I enjoy solving CTF challenges and exploring new attack vectors<br>Email: saswath14sas@gmail.com<br>
+<h1 align="center">Hey, I'm Saswath A</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Reverse+Engineering+Enthusiast;Learing+To+Building+Things+with+AI;Robotics+Explorer;CTF+Player(Hardware+Mostly)" />
+</p>
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saswath14sas@gmail.com) 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24292e,100:0d1117&height=2&section=footer"/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Saswath-A&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Saswath-A&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saswath-A&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 💫 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm always learning and exploring new technologies.
+
+-  Reverse Engineering
+-  Vulnerability Assessment
+-  Building things with AI
+-  Robotics
+-  Solving CTF challenges and exploring new attack vectors
+
+📫 **Email:** **saswath14sas@gmail.com**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24292e,100:0d1117&height=2&section=footer"/>
+
+## Connect with Me
+
+<p>
+<a href="mailto:saswath14sas@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saswath-a-293140324">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24292e,100:0d1117&height=2&section=footer"/>
+
+## 💻 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,linux,git,github,vscode,bash,ros"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24292e,100:0d1117&height=2&section=footer"/>
+
+##  GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saswath-A&theme=tokyonight&hide_border=true"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24292e,100:0d1117&height=2&section=footer"/>
+
+## Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Saswath-A&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24292e,100:0d1117&height=2&section=footer"/>
+
+![](https://komarev.com/ghpvc/?username=Saswath-A&style=for-the-badge)
