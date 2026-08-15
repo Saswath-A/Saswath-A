@@ -42,13 +42,11 @@ I'm always learning and exploring new technologies.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:24292e,100:0d1117&height=2&section=footer"/>
 
-##  GitHub Stats
+## GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Saswath-A&theme=tokyonight&hide_border=true"/>
-</p>
+![](https://github.com/Saswath-A/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/Saswath-A/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24292e,100:0d1117&height=2&section=footer"/>
 
 ## Contribution Graph
 
